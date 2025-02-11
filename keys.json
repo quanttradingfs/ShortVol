@@ -1,5 +1,4 @@
 {
-    "Alpaca_API_Key": "key goes here",
-    "Nasdaq_Data_Link_API_Key": "key goes here"
+    "Alpaca_API_Key": "foo",
+    "Nasdaq_Data_Link_API_Key": "bar"
 }
-  
